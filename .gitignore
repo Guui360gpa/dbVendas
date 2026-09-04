@@ -1,0 +1,14 @@
+# Arquivos temporários e de backup do SQL Server
+*.bak
+*.trn
+*.mdf
+*.ldf
+*.ndf
+
+# Configurações locais de IDE
+.vscode/
+.idea/
+
+# SO
+.DS_Store
+Thumbs.db
