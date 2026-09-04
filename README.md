@@ -42,7 +42,3 @@ sqlcmd -S localhost -i DDL.sql
 ## Tecnologias
 
 - SQL Server (T-SQL)
-
-## Autor
-
-Seu nome aqui
